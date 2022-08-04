@@ -1,7 +1,7 @@
 {
   "name": "JSTest",
   "version": "0.1.0",
-  "description": "A JavaScript package.json file referencing known vulnerable dependencies. No actual application code.",
+  "description": "A JavaScript package.json file that deliberately references npm packages with known vulnerabilities. No actual application code.",
   "dependencies" : {
     "lodash" : "1.2.0",
     "request" : "2.88.2",
